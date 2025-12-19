@@ -1,6 +1,11 @@
-# 👋 Hi, I'm Divyadarshee Dash
+<h1 align="center">👋 Hi, I'm Divyadarshee Dash</h1>
 
-<img src="https://tenor.com/view/fiesta-de-baile-cyborg-los-jóvenes-titanes-en-acción-celebracion-festejado-gif-5347357663012650465.gif" width="220"/>
+<p align="center">
+  <img src="https://tenor.com/view/fiesta-de-baile-cyborg-los-jóvenes-titanes-en-acción-celebracion-festejado-gif-5347357663012650465.gif"
+       width="400"
+       alt="Cyborg dancing gif" />
+</p>
+
 
 ## 🤖 About Me
 I work in **Artificial Intelligence** and **Machine Learning**, focusing on building **practical, data-driven systems** that turn raw data into meaningful insights.  
