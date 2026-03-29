@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Divyadarshee Dash</h1>
-![Profile views](https://komarev.com/ghpvc/?username=DivyadarsheeDash&label=Profile%20views&color=0e75b6&style=flat)
+
 
 ## 🤖 About Me
 I work in **Artificial Intelligence** and **Machine Learning**, focusing on building **practical, data-driven systems** that turn raw data into meaningful insights.  
