@@ -35,7 +35,7 @@ while continuously improving my understanding of how AI systems perform in real-
 <li><b>Languages:</b> Python</li>
 <li><b>Core Libraries:</b> NumPy, Pandas, Matplotlib</li>
 <li><b>Machine Learning:</b> scikit-learn</li>
-<li><b>Deep Learning:</b> PyTorch, TensorFlow</li>
+<li><b>Deep Learning:</b> PyTorch</li>
 <li><b>NLP:</b> NLTK, sklearn NLP pipelines</li>
 <li><b>Tools:</b> Jupyter Notebook, Git, GitHub</li>
 </ul>
