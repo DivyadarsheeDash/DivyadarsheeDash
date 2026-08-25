@@ -1,5 +1,11 @@
 <div align="center">
 
+<img
+  src="./assets/divyadarshee_color_ascii.png"
+  alt="Colour ASCII portrait of Divyadarshee Dash"
+  width="760"
+/>
+
 # Divyadarshee Dash
 
 **B.Tech. CSE (AI/ML) · AI/ML Research Student · VSSUT, India**
@@ -43,7 +49,7 @@ Research internship under **Prof. Ranjan Kumar Behera** on an intelligent edge-c
 - **[CIPHER](https://github.com/DivyadarsheeDash/CIPHER)** — NLP prototype for aggressive/toxic-language detection using TF-IDF and linear classifiers.
 - **[QLG-JagReID](https://github.com/DivyadarsheeDash/QLG-JagReID)** — Work-in-progress image re-identification data pipeline with leakage-aware dataset preparation.
 - **[Agentic AI Hackathon](https://github.com/DivyadarsheeDash/Agentic-ai-hackathon)** — Applied work on agentic AI.
-- **[Portfolio](https://divyadarshee-portfolio.vercel.app)** — Personal research and project portfolio.
+- **[Portfolio](https://divyadarshee-portfolio.vercel.app/)** — Personal research and project portfolio.
 
 ## Research Direction
 
