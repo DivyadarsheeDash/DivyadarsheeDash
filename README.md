@@ -1,68 +1,50 @@
 <div align="center">
 
-<img
-  src="./assets/divyadarshee_color_ascii.png"
-  alt="Colour ASCII portrait of Divyadarshee Dash"
-  width="760"
-/>
+# Divyadarshee Dash
 
-# 👋 Hi, I'm Divyadarshee Dash
+**B.Tech. CSE (AI/ML) · AI/ML Research Student · VSSUT, India**
 
-### AI/ML Research Student · Human-Centered Intelligence · Multimodal & Embodied AI
-
-**B.Tech CSE (AI/ML) · Research Experience at IIT Patna · Aspiring AI Researcher**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyadarshee%20Dash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyadarshee-dash/)
-[![GitHub](https://img.shields.io/badge/GitHub-DivyadarsheeDash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyadarsheeDash)
-[![X](https://img.shields.io/badge/X-@Divyadarshee__D-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Divyadarshee_D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyadarshee-dash/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DivyadarsheeDash)
 
 </div>
 
 ---
 
-## 🔬 Research Identity
+## Research Focus
 
-I am an **AI/ML student and aspiring researcher** interested in a fundamental question:
+I am interested in designing learning algorithms for intelligent machines that remain reliable under changing environmental conditions, sensor readings, and other sources of variation.
 
-> **How can we build AI systems that understand, reason, adapt, and act with greater human-like flexibility in complex real-world environments?**
+My current interests include:
 
-My interests lie at the intersection of **machine learning, deep learning, multimodal intelligence, human-centered AI, computer vision, autonomous agents, robotics, and embodied intelligence**.
+- Multimodal learning and sensor fusion
+- Robust representation learning
+- Computer vision and machine perception
+- Embodied AI and intelligent autonomous systems
+- Robot learning and world models
+- Structured, physics-inspired, and trustworthy machine learning
 
-I am particularly interested in systems that can go beyond pattern recognition—systems capable of combining **perception, reasoning, memory, planning, interaction, and continuous learning**.
+## Research Experience
 
-My existing projects are rooted in applied AI for real-world systems. I am now building on that foundation to move toward research in **generalizable intelligence, multimodal reasoning, human-AI collaboration, and autonomous decision-making**.
+### Physics-Guided Self-Evolving Digital Twin Network (SEDT-Net)
 
----
+An independent research project on fault diagnosis and health assessment of three-level neutral-point-clamped inverter-fed induction-motor drives. The framework combines a physics-based healthy-state Digital Twin, physics residuals, and machine learning for fault diagnosis, severity estimation, health prediction, and model evolution.
 
-## 🧭 Research Interests
+The study was evaluated across **588 operating runs and 14,700 windows** using **run-level five-fold cross-validation** and was **accepted for presentation at IEEE PEDES**.
 
-- **Human-centered and human-compatible AI**
-- **Commonsense, grounded, and causal reasoning**
-- **Multimodal learning across language, vision, and interaction**
-- **Embodied AI, robotics, and autonomous systems**
-- **Autonomous agents and long-horizon planning**
-- **Computer vision and representation learning**
-- **Human-AI collaboration and interactive intelligence**
-- **Robust learning under limited data and distribution shifts**
-- **Trustworthy, interpretable, and uncertainty-aware AI**
+> The manuscript and implementation are currently private because the work has not yet been formally published.
 
----
+### Research Internship — IIT Patna
 
-## 🤖 Research Vision
+Research internship under **Prof. Ranjan Kumar Behera** on an intelligent edge-cloud IoT framework for real-time physiological monitoring and AI-driven health-risk prediction.
 
-I want to contribute to AI systems that can:
+## Selected Public Work
 
-```text
-Perceive the world
-        ↓
-Build useful representations
-        ↓
-Reason using context and prior knowledge
-        ↓
-Plan toward long-term objectives
-        ↓
-Interact naturally with humans
-        ↓
-Act safely in physical or digital environments
-        ↓
-Learn continuously from feedback
+- **[CIPHER](https://github.com/DivyadarsheeDash/CIPHER)** — NLP prototype for aggressive/toxic-language detection using TF-IDF and linear classifiers.
+- **[QLG-JagReID](https://github.com/DivyadarsheeDash/QLG-JagReID)** — Work-in-progress image re-identification data pipeline with leakage-aware dataset preparation.
+- **[Agentic AI Hackathon](https://github.com/DivyadarsheeDash/Agentic-ai-hackathon)** — Applied work on agentic AI.
+- **[Portfolio](https://divyadarshee-portfolio.vercel.app)** — Personal research and project portfolio.
+
+## Research Direction
+
+My long-term goal is to work on **intelligent autonomous systems**, particularly robust multimodal perception, robot learning, and world models.
