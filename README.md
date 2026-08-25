@@ -6,63 +6,57 @@
   width="760"
 />
 
-# 👋 Hi, I'm Divyadarshee Dash
+# Divyadarshee Dash
 
-### AI/ML Research Student · Human-Centered Intelligence · Multimodal & Embodied AI
+**B.Tech. CSE (AI/ML) · AI/ML Research Student · VSSUT, India**
 
-**B.Tech CSE (AI/ML) · Research Experience at IIT Patna · Aspiring AI Researcher**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divyadarshee%20Dash-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyadarshee-dash/)
-[![GitHub](https://img.shields.io/badge/GitHub-DivyadarsheeDash-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyadarsheeDash)
-[![X](https://img.shields.io/badge/X-@Divyadarshee__D-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Divyadarshee_D)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/DivyadarsheeDash)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyadarshee-dash/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white)](https://divyadarshee-portfolio.vercel.app/)
 
 </div>
 
 ---
 
-## 🔬 Research Identity
+## Research
 
-I am an **AI/ML student and aspiring researcher** interested in a fundamental question:
+I am an AI/ML student interested in building **reliable learning systems for intelligent and autonomous machines**. My work is centered on learning under changing operating conditions, integrating data-driven models with physical structure, and developing representations that remain useful under distribution shifts.
 
-> **How can we build AI systems that understand, reason, adapt, and act with greater human-like flexibility in complex real-world environments?**
+My broader research interests span:
 
-My interests lie at the intersection of **machine learning, deep learning, multimodal intelligence, human-centered AI, computer vision, autonomous agents, robotics, and embodied intelligence**.
+- **Robot learning and embodied AI**
+- **World models and multimodal learning**
+- **Computer vision and machine perception**
+- **Representation learning under distribution shift**
+- **Physics-guided and structured machine learning**
+- **Trustworthy, uncertainty-aware, and interpretable AI**
 
-I am particularly interested in systems that can go beyond pattern recognition—systems capable of combining **perception, reasoning, memory, planning, interaction, and continuous learning**.
+## Research Projects
 
-My existing projects are rooted in applied AI for real-world systems. I am now building on that foundation to move toward research in **generalizable intelligence, multimodal reasoning, human-AI collaboration, and autonomous decision-making**.
+### Physics-Guided Self-Evolving Digital Twin Network (SEDT-Net)
 
----
+An independent research project for fault diagnosis, severity estimation, and health prediction in **three-level neutral-point-clamped inverter-fed induction-motor drives**.
 
-## 🧭 Research Interests
+The framework combines a **physics-based healthy-state Digital Twin**, physics-residual representations, and machine learning with mechanisms for model evolution. The study uses **588 operating runs and 14,700 windows** with **run-level five-fold cross-validation**.
 
-- **Human-centered and human-compatible AI**
-- **Commonsense, grounded, and causal reasoning**
-- **Multimodal learning across language, vision, and interaction**
-- **Embodied AI, robotics, and autonomous systems**
-- **Autonomous agents and long-horizon planning**
-- **Computer vision and representation learning**
-- **Human-AI collaboration and interactive intelligence**
-- **Robust learning under limited data and distribution shifts**
-- **Trustworthy, interpretable, and uncertainty-aware AI**
+The manuscript has been accepted for presentation at **IEEE PEDES**. The full manuscript and implementation remain private while the work is unpublished.
 
----
+### Research Internship — IIT Patna
 
-## 🤖 Research Vision
+Research internship under **Prof. Ranjan Kumar Behera** on an intelligent edge-cloud IoT framework for real-time physiological monitoring and AI-driven health-risk prediction.
 
-I want to contribute to AI systems that can:
+## Research Direction
+
+I am particularly interested in the transition from models that merely recognize patterns to systems that can **perceive, reason, adapt, and act** in changing environments.
+
+My long-term goal is to work on **robotics and embodied intelligence**, with a focus on learning systems that combine multimodal perception, world models, reasoning, planning, and continual adaptation.
+
+## Current Focus
 
 ```text
-Perceive the world
-        ↓
-Build useful representations
-        ↓
-Reason using context and prior knowledge
-        ↓
-Plan toward long-term objectives
-        ↓
-Interact naturally with humans
-        ↓
-Act safely in physical or digital environments
-        ↓
-Learn continuously from feedback
+Perception → Representation → Reasoning → Planning → Action
+                         ↑                    ↓
+                    Continual Learning ← Feedback
+```
+
+I am currently strengthening my foundations in **machine learning, deep learning, probability, optimization, and calculus** while building research projects that connect these foundations to real-world intelligent systems.
